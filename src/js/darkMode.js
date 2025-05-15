@@ -18,13 +18,13 @@ export default function darkMode() {
         saveToLocalStorage("isDarkMode", darkState);
     });
 
-    function updateIcon(isDark) {
-        if (isDark) {
-            darkModeBtn.src = "/public/img/lightmode.svg";
-        } else {
-            darkModeBtn.src = "/public/img/darkmode.svg";
-        }
-    }
+    // function updateIcon(isDark) {
+    //     if (isDark) {
+    //         darkModeBtn.src = "/public/img/lightmode.svg";
+    //     } else {
+    //         darkModeBtn.src = "/public/img/darkmode.svg";
+    //     }
+    // }
 
     function saveToLocalStorage(key, value) {
         localStorage.setItem(key, JSON.stringify(value));

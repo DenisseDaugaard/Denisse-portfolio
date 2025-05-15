@@ -25,7 +25,7 @@ document.querySelector("#portfolio").innerHTML = `
         </ul>   
 
             <figure class="darkmode__icon__container">
-               <img class="darkmode__icon" src="/img/darkmode.svg">
+               <img class="darkmode__icon" src="/img/dark-light.svg">
             </figure> 
     </nav>    
 
