@@ -25,7 +25,7 @@ document.querySelector("#portfolio").innerHTML = `
         </ul>   
 
             <figure class="darkmode__icon__container">
-               <img class="darkmode__icon" src="/public/img/darkmode.svg">
+               <img class="darkmode__icon" src="/img/darkmode.svg">
             </figure> 
     </nav>    
 
@@ -38,7 +38,7 @@ document.querySelector("#portfolio").innerHTML = `
                 <h3 class="auto-type"></h3>
             </div>
              <figure class="presentation__img__container">
-                <img src="/public/img/profolio_pic.jpg" alt="">
+                <img src="/img/profolio_pic.jpg" alt="">
              </figure>   
         </section>     
             
@@ -48,31 +48,31 @@ document.querySelector("#portfolio").innerHTML = `
 
     <article class="my__skills">
             <figure class="skill">
-            <img src="/public/img//icons8-html-5-48.png" alt="html icon">
+            <img src="/img//icons8-html-5-48.png" alt="html icon">
             <figcaption>html</figcaption>
             </figure>
             <figure class="skill">
-                <img src="/public/img/icons8-css-48.png" alt="css icon">
+                <img src="/img/icons8-css-48.png" alt="css icon">
                 <figcaption>css</figcaption>
             </figure>
             <figure class="skill">
-                <img src="/public/img//icons8-javascript-48.png" alt="java script icon">
+                <img src="/img//icons8-javascript-48.png" alt="java script icon">
                  <figcaption>javascript</figcaption>
             </figure>
             <figure class="skill">
-                <img src="/public/img/icons8-prisma-orm-48.png" alt="prisma icon">
+                <img src="/img/icons8-prisma-orm-48.png" alt="prisma icon">
                  <figcaption>prisma</figcaption>
             </figure>
             <figure class="skill">
-                <img src="/public/img/icons8-nodejs-48.png" alt="node icon">
+                <img src="/img/icons8-nodejs-48.png" alt="node icon">
                  <figcaption>node</figcaption>
             </figure>
             <figure class="skill">
-                <img src="/public/img/icons8-sass-48.png" alt="sass icon">
+                <img src="/img/icons8-sass-48.png" alt="sass icon">
                 <figcaption>sass</figcaption>
             </figure>
             <figure class="skill">
-                <img src="/public/img/react-icon.png" alt="react icon">
+                <img src="/img/react-icon.png" alt="react icon">
                 <figcaption>react</figcaption>
             </figure>
     </article>
